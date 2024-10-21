@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Day4c180
+namespace LAP4
 {
     public class Answer
     {
